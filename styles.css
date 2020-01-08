@@ -1,0 +1,61 @@
+.eight {
+    width: 174px;
+}
+
+.six {
+    width: 180px;
+}
+
+.five {
+    width: 132.5px;
+}
+
+.eight {
+}
+
+.six {
+}
+
+.five {
+}
+
+.x {
+    width: 180px;
+}
+
+.four {
+    width: 171.5px;
+}
+
+body {
+    background-color: blue;
+    font-family: 'Lalezar', cursive;
+}
+
+img {
+    display: none;
+    justify-content: center;
+}
+
+.phones {
+    display: flex;
+    justify-content: center;
+}
+.button1 {
+    background-color: red;
+    border: 3px solid darkred;
+}
+.button2 {
+    background-color: lime;
+    border: 3px solid green;
+}
+.button3 {
+    background-color: blue;
+    border: 3px solid navy;
+}
+body {
+    background-image: url("http://1.bp.blogspot.com/-_3f_enidOBs/UwQDExE5fMI/AAAAAAAAH7A/-gb-oYNPPLg/s1600/outAnimation.gif");
+}
+body {
+    text-align: center;
+}
